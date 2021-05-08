@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7e5e3dfd-7ece-4690-9823-4831fb349d89" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heroesapi/src/main/java/com/Dio/heroesapi/HeroesTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/heroesapi/src/main/java/com/Dio/heroesapi/HeroesTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heroesapi/src/main/java/document/Heroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/heroesapi/src/main/java/document/Heroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heroesapi/src/main/java/com/Dio/heroesapi/HeroesData.java" beforeDir="false" afterPath="$PROJECT_DIR$/heroesapi/src/main/java/com/Dio/heroesapi/HeroesData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heroesapi/src/test/java/com/Dio/heroesapi/HeroesapiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/heroesapi/src/test/java/com/Dio/heroesapi/HeroesapiApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
