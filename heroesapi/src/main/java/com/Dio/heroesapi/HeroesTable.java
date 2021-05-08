@@ -16,7 +16,6 @@ import static constans.HeroesConstant.HEROES_ENDPOINT_LOCAL;
 import static constans.HeroesConstant.ENDPOINT_DYNAMO;
 import static constans.HeroesConstant.REGION_DYNAMO;
 
-
 public class HeroesTable {
     public static void main (String [] args) throws Exception{
         AmazonDynamoDB client = AmazonDynamoDBClientBuilder.standard()

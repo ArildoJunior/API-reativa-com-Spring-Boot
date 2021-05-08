@@ -12,8 +12,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @DynamoDBTable(tableName ="Heroes_Table")
 
-
-
 public class Heroes {
 
     @Id
