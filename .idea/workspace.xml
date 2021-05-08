@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e5e3dfd-7ece-4690-9823-4831fb349d89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heroesapi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/heroesapi/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heroesapi/src/main/java/com/Dio/heroesapi/HeroesapiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/heroesapi/src/main/java/com/Dio/heroesapi/HeroesapiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heroesapi/src/main/java/com/Dio/heroesapiconfig/DynamoConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/heroesapi/src/main/java/com/Dio/heroesapi/DynamoConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/heroesapi/src/main/java/com/Dio" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.Dio.heroesapi" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="HeroesapiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
