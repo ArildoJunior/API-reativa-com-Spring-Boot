@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e5e3dfd-7ece-4690-9823-4831fb349d89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heroessapi/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heroessapi/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heroessapi/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heroessapi/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heroessapi/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heroessapi/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heroessapi/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heroessapi/src/main/java/com/DigitalInnovationOne/heroessapi/HeroessapiApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heroessapi/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heroessapi/src/test/java/com/DigitalInnovationOne/heroessapi/HeroessapiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/heroesapi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/heroesapi/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
