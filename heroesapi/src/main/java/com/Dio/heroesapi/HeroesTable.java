@@ -12,7 +12,6 @@ import com.amazonaws.services.dynamodbv2.model.KeySchemaElement;
 import com.amazonaws.services.dynamodbv2.model.KeyType;
 import com.amazonaws.services.dynamodbv2.model.ProvisionedThroughput;
 import com.amazonaws.services.dynamodbv2.model.ScalarAttributeType;
-import static constans.HeroesConstant.HEROES_ENDPOINT_LOCAL;
 import static constans.HeroesConstant.ENDPOINT_DYNAMO;
 import static constans.HeroesConstant.REGION_DYNAMO;
 
